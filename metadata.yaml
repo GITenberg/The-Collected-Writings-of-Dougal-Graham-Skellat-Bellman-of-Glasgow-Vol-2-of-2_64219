@@ -1,0 +1,32 @@
+_repo: The-Collected-Writings-of-Dougal-Graham-Skellat-Bellman-of-Glasgow-Vol-2-of-2_64219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graham, Dougal
+    alias: Graham, D. (Dougal)
+    birthdate: 1724
+    deathdate: 1779
+    gutenberg_agent_id: '50925'
+    url: http://www.gutenberg.org/2009/agents/50925
+    wikipedia: https://en.wikipedia.org/wiki/Dougal_Graham
+  editor:
+    agent_name: Mac Gregor, George
+    aliases:
+    - MacGregor, George
+    - Gregor, George Mac
+    gutenberg_agent_id: '41148'
+    url: http://www.gutenberg.org/2009/agents/41148
+description: ''
+gutenberg_issued: '2021-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Collected Writings of Dougal Graham, "Skellat" Bellman of Glasgow, Vol.
+  2 of 2
+url: http://www.gutenberg.org/ebooks/64219
